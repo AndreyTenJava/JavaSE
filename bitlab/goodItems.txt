@@ -1,0 +1,10 @@
+avocado
+3
+tomato
+2
+apple
+2
+potato
+1
+lemon
+5
